@@ -18,8 +18,8 @@ Cette phase est opérée en environnement de production et permet des évolution
 
 Les organismes suivants, de par leur statut de fondateurs, sont contributeurs de plein droit :
 
-* l'[IGN](4)
-* [La Poste](5)
+* l'[IGN][4]
+* [La Poste][5]
 * la [mission Etalab](https://www.etalab.gouv.fr)
 * [OpenStreetMap France](http://openstreetmap.fr/)
 
@@ -47,7 +47,7 @@ Les signataires de la présente charte s'engagent à :
 
 * contribuer à l'amélioration de la Base Adresse Nationale, sur leur périmètre géographique de compétence ;
 * ne pas porter atteinte à l'intégrité de l'environnement de production ;
-* ne déposer que des données éligibles à la [Licence Ouverte](1) ;
+* ne déposer que des données éligibles à la [Licence Ouverte][1] ;
 * ne pas moissonner la base de données de l'API de gestion ;
 * ...
 
@@ -79,7 +79,7 @@ Les contributeurs signataires peuvent :
 * Créer, modifier ou supprimer des groupes de numéro de voie (voies, lieux-dits, etc.)
 * Créer, modifier ou supprimer des positions géographiques
 
-Les identifiants techniques de l'[IGN](4) et de [La Poste](5) ne peuvent pas être modifiés.
+Les identifiants techniques de l'[IGN][4] et de [La Poste][5] ne peuvent pas être modifiés.
 
 ### Traçabilité, audit
 
@@ -97,14 +97,14 @@ Ces limitations ont vocation à protéger l'environnement de production.
 
 ### Données entrantes
 
-Les _données Adresse_ déposées par les contributeurs signataires au travers de l'API de gestion sont considérées comme étant sous [Licence Ouverte](1).
+Les _données Adresse_ déposées par les contributeurs signataires au travers de l'API de gestion sont considérées comme étant sous [Licence Ouverte][1].
 
 ### Données sortantes
 
-Les licences applicables aux _données Adresse_ obtenues via l'API de gestion sont, au choix, la [Licence Gratuite de Repartage](2) ou l'[Open Database Licence 1.0](3).
+Les licences applicables aux _données Adresse_ obtenues via l'API de gestion sont, au choix, la [Licence Gratuite de Repartage][2] ou l'[Open Database Licence 1.0][3].
 
 [1]: https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
-[2]: http://adresse.data.gouv.fr/static/pdf/BAN%20Licence%20de%20repartage.pdf
+[2]: http://adresse.data.gouv.fr/pdf/licence-gratuite-repartage.pdf
 [3]: https://vvlibri.org/fr/licence/odbl/10/fr
 [4]: http://www.ign.fr
 [5]: http://www.laposte.fr/entreprise/produits-et-services/sna-normalisation-des-adresses
