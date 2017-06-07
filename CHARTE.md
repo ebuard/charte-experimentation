@@ -35,9 +35,9 @@ Pendant la phase d'expérimentation, les types d'entités suivants peuvent deman
 * services départementaux d'incendie et de secours (SDIS) ;
 * services d'aide médicale urgente (SAMU).
 
-Les demandes sont étudiées par la communauté technique de la Base Adresse Nationale.
+Tout envoi d'une demande par une entité vaut acceptation et engagement à respecter la présente charte.
 
-Lorsque qu'une demande est acceptée, l'entité en question doit s'engager à respecter la présente charte.
+Les demandes sont étudiées par la communauté technique de la Base Adresse Nationale.
 
 ## Engagements
 
@@ -55,8 +55,7 @@ Les signataires de la présente charte s'engagent à :
 
 La communauté technique s'engage vis-à-vis des contributeurs signataires à :
 * prendre en considération leurs remarques et suggestions ;
-* leur apporter du support technique ;
-* ...
+* leur apporter du support technique.
 
 ## Perte du statut de contributeur signataire
 
@@ -75,17 +74,15 @@ Un jeton peut être révoqué unilatéralement par la communauté technique en c
 ### Droits d'accès
 
 Les contributeurs signataires peuvent :
-* Créer, modifier ou supprimer des numéro de voie
-* Créer, modifier ou supprimer des groupes de numéro de voie (voies, lieux-dits, etc.)
-* Créer, modifier ou supprimer des positions géographiques
+* Créer, modifier ou supprimer des numéros d'adresses
+* Créer, modifier ou supprimer un ensemble d'adresses (voies, lieux-dits, résidences, zones commerciale, etc.)
+* Créer, modifier ou supprimer les positions géographiques des adresses et leurs descriptions (type de position, source d'acquisition, etc.)
 
 Les identifiants techniques de l'[IGN][4] et de [La Poste][5] ne peuvent pas être modifiés.
 
 ### Traçabilité, audit
 
-Toutes les interactions d'un client disposant d'un jeton d'accès avec l'API sont tracées et auditables sur demande.
-
-_À préciser_
+Toutes les interactions d'un client disposant d'un jeton d'accès avec l'API sont tracées par le biais d'un outil d'analyse de l'API et auditables sur demande : nombre et type d'accès, objets de la BAN recherchés, communes de recherche, etc.
 
 ### Limitations techniques
 
