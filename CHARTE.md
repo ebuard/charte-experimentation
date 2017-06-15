@@ -14,6 +14,8 @@ Ce document définit le cadre et les conditions d'utilisation de l'API de gestio
 
 Cette phase est opérée en environnement de production et permet des évolutions accélérées. Elle peut prendre fin à tout moment, les contributeurs étant alors accompagnés dans leur migration vers le dispositif final.
 
+La durée maximale de la phase d'expérimentation, et donc de validité de cette charte, est de 1 an.
+
 ## Contributeurs de plein droit
 
 Les organismes suivants, de par leur statut de fondateurs, sont contributeurs de plein droit :
